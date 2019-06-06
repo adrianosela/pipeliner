@@ -7,7 +7,7 @@ import org.apache.beam.sdk.values.PCollection;
 import org.apache.beam.sdk.values.PDone;
 
 /** An output transform that simply prints a string */
-public class PrintOutput extends PTransform<PCollection<String>, PDone> {
+public class PrintToSTDOUT extends PTransform<PCollection<String>, PDone> {
   private static final long serialVersionUID = 1L;
 
   @Override

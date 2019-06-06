@@ -1,6 +1,6 @@
 package com.adrianosela.pipeliner.entrypoint;
 
-import com.adrianosela.pipeliner.ioutil.PrintOutput;
+import com.adrianosela.pipeliner.ioutil.PrintToSTDOUT;
 import java.util.Arrays;
 import org.apache.beam.sdk.Pipeline;
 import org.apache.beam.sdk.io.TextIO;
@@ -47,7 +47,7 @@ public class Entrypoint {
                         wordCount.getKey() + ": " + wordCount.getValue()));
 
     // print output
-    formattedOutputs.apply(new PrintOutput());
+    formattedOutputs.apply(new PrintToSTDOUT());
 
     // block exit
     p.run().waitUntilFinish();
