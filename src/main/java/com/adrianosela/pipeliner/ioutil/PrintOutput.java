@@ -18,8 +18,8 @@ public class PrintOutput extends PTransform<PCollection<String>, PDone> {
               private static final long serialVersionUID = 1L;
 
               @ProcessElement
-              public void processElement(ProcessContext c) {
-                System.out.println(c.element());
+              public void processElement(@Element String str) {
+                System.out.println(str);
               }
             }));
     return PDone.in(input.getPipeline());
