@@ -1,8 +1,8 @@
-package com.mozilla.secops.secopsGatekeeperPOC.pipelines.guardduty;
+package com.adrianosela.pipeliner.pipelines.guardduty;
 
+import com.adrianosela.pipeliner.ioutil.PrintToSTDOUT;
 import com.amazonaws.regions.Regions;
 import com.amazonaws.services.kinesis.clientlibrary.lib.worker.InitialPositionInStream;
-import com.mozilla.secops.secopsGatekeeperPOC.ioutil.PrintToSTDOUT;
 import org.apache.beam.sdk.Pipeline;
 import org.apache.beam.sdk.io.kinesis.KinesisIO;
 import org.apache.beam.sdk.io.kinesis.KinesisRecord;
