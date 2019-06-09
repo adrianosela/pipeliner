@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a28acaa7-7d17-4f59-9548-5d3955e1fc34" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pipeliner.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pipeliner.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pipeliner.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/pipeliner.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pipeliner.iws" beforeDir="false" afterPath="$PROJECT_DIR$/pipeliner.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/adrianosela/pipeliner/pipelines/guardduty/GuardDuty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/adrianosela/pipeliner/pipelines/guardduty/GuardDuty.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,8 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="81" column="19" lean-forward="true" selection-start-line="81" selection-start-column="19" selection-end-line="81" selection-end-column="19" />
+            <state relative-caret-position="476">
+              <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -30,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/adrianosela/pipeliner/pipelines/wordcount/WordCount.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/adrianosela/pipeliner/pipelines/guardduty/GuardDuty.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="435">
+              <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,8 +69,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pipeliner.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+            <state relative-caret-position="480">
+              <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -87,11 +91,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/adrianosela/pipeliner/playground/Main.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/adrianosela/pipeliner/ioutil/PrintOutput.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/adrianosela/pipeliner/entrypoint/Entrypoint.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/adrianosela/pipeliner/pipelines/WordCount.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/adrianosela/pipeliner/pipelines/wordcount/WordCount.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/adrianosela/pipeliner/pipelines/guardduty/GuardDuty.java" />
       </list>
     </option>
@@ -124,56 +128,6 @@
               <item name="pipeliner" type="b2602c69:ProjectViewProjectNode" />
               <item name="pipeliner" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pipeliner" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pipeliner" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pipeliner" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pipeliner" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pipeliner" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pipeliner" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pipeliner" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pipeliner" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pipeliner" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pipeliner" type="462c0819:PsiDirectoryNode" />
-              <item name="pipelines" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pipeliner" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pipeliner" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pipeliner" type="462c0819:PsiDirectoryNode" />
-              <item name="pipelines" type="462c0819:PsiDirectoryNode" />
-              <item name="guardduty" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pipeliner" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pipeliner" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pipeliner" type="462c0819:PsiDirectoryNode" />
-              <item name="pipelines" type="462c0819:PsiDirectoryNode" />
-              <item name="wordcount" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -305,8 +259,8 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/adrianosela/pipeliner/ioutil/ReadFile.java" />
     <entry file="file://$PROJECT_DIR$/pipeliner.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+        <state relative-caret-position="480">
+          <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -340,7 +294,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/adrianosela/pipeliner/pipelines/wordcount/WordCount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -349,15 +303,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="81" column="19" lean-forward="true" selection-start-line="81" selection-start-column="19" selection-end-line="81" selection-end-column="19" />
+        <state relative-caret-position="476">
+          <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/adrianosela/pipeliner/pipelines/guardduty/GuardDuty.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="435">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -439,7 +393,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>org.slf4j:slf4j-nop:1.7.26</last-edited>
+          <last-edited>org.apache.beam:beam-sdks-java-core:0.4.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

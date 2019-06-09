@@ -1,5 +1,7 @@
 package com.adrianosela.pipeliner.pipelines.guardduty;
 
+import com.amazonaws.regions.Regions;
+import com.amazonaws.services.kinesis.clientlibrary.lib.worker.InitialPositionInStream;
 import org.apache.beam.sdk.Pipeline;
 import org.apache.beam.sdk.io.kinesis.KinesisIO;
 import org.apache.beam.sdk.options.PipelineOptions;
@@ -16,8 +18,9 @@ public class GuardDuty {
 
     p.apply(
         KinesisIO.read()
-            .from("streamName", InitialPositionInStream.TRIM_HORIZON)
-            .withClientProvider("AWS_KEY", "AWS_SECRET", "us-west-2"));
+            .withStreamName("streamName")
+            .withAWSClientsProvider("AWS_KEY", "AWS_SECRET", Regions.US_WEST_2)
+            .withInitialPositionInStream(InitialPositionInStream.TRIM_HORIZON));
 
     // TODO
 
