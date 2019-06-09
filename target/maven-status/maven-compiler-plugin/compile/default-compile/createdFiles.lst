@@ -1,4 +1,3 @@
-com/adrianosela/pipeliner/pipelines/wordcount/WordCount.class
-com/adrianosela/pipeliner/pipelines/guardduty/GuardDuty.class
-com/adrianosela/pipeliner/ioutil/PrintToSTDOUT$1.class
-com/adrianosela/pipeliner/ioutil/PrintToSTDOUT.class
+com/mozilla/secops/secopsGatekeeperPOC/ioutil/PrintToSTDOUT.class
+com/mozilla/secops/secopsGatekeeperPOC/ioutil/PrintToSTDOUT$1.class
+com/mozilla/secops/secopsGatekeeperPOC/pipelines/guardduty/GuardDuty.class

@@ -1,8 +1,5 @@
-guardduty:
-	mvn compile exec:java -Dexec.mainClass=com.adrianosela.pipeliner.pipelines.guardduty.GuardDuty
-
-wordcount:
-	mvn compile exec:java -Dexec.mainClass=com.adrianosela.pipeliner.pipelines.wordcount.WordCount
+gk:
+	mvn compile exec:java -Dexec.mainClass=com.mozilla.secops.secopsGatekeeperPOC.pipelines.guardduty.GuardDuty
 
 fmt:
 	mvn spotless:apply
