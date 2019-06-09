@@ -16,7 +16,7 @@ public class GuardDuty {
 
   public static void main(String[] args) {
 
-    String STREAM_NAME = "stream-name";
+    String STREAM_NAME = "foxsec-pipeline-delivery";
     String AWS_ACCESS_KEY_ID = "";
     String AWS_SECRET_ACCESS_KEY = "";
 

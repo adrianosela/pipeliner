@@ -4,10 +4,6 @@
     <list default="true" id="a28acaa7-7d17-4f59-9548-5d3955e1fc34" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/pipeliner.iws" beforeDir="false" afterPath="$PROJECT_DIR$/pipeliner.iws" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/adrianosela/pipeliner/pipelines/guardduty/GuardDuty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/adrianosela/pipeliner/pipelines/guardduty/GuardDuty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/adrianosela/pipeliner/entrypoint/Entrypoint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/adrianosela/pipeliner/ioutil/PrintToSTDOUT$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/adrianosela/pipeliner/ioutil/PrintToSTDOUT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/adrianosela/pipeliner/pipelines/wordcount/WordCount.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/adrianosela/pipeliner/pipelines/wordcount/WordCount.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="720">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="49" selection-end-column="48" />
+              <caret line="48" selection-start-line="48" selection-end-line="49" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/adrianosela/pipeliner/pipelines/guardduty/GuardDuty.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="55" lean-forward="true" selection-start-line="39" selection-start-column="55" selection-end-line="39" selection-end-column="55" />
+            <state relative-caret-position="330">
+              <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -275,7 +271,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1935287" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -337,7 +332,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/adrianosela/pipeliner/pipelines/wordcount/WordCount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="49" selection-end-column="48" />
+          <caret line="48" selection-start-line="48" selection-end-line="49" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -346,8 +341,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/adrianosela/pipeliner/pipelines/guardduty/GuardDuty.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="55" lean-forward="true" selection-start-line="39" selection-start-column="55" selection-end-line="39" selection-end-column="55" />
+        <state relative-caret-position="330">
+          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
