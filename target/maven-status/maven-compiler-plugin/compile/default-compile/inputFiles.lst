@@ -1,2 +1,3 @@
 /Users/aaviles/go/src/github.com/adrianosela/pipeliner/src/main/java/com/adrianosela/pipeliner/ioutil/PrintToSTDOUT.java
-/Users/aaviles/go/src/github.com/adrianosela/pipeliner/src/main/java/com/adrianosela/pipeliner/entrypoint/Entrypoint.java
+/Users/aaviles/go/src/github.com/adrianosela/pipeliner/src/main/java/com/adrianosela/pipeliner/pipelines/wordcount/WordCount.java
+/Users/aaviles/go/src/github.com/adrianosela/pipeliner/src/main/java/com/adrianosela/pipeliner/pipelines/guardduty/GuardDuty.java

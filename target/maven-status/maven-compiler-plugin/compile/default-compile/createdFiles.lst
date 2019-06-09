@@ -1,1 +1,4 @@
+com/adrianosela/pipeliner/pipelines/wordcount/WordCount.class
 com/adrianosela/pipeliner/pipelines/guardduty/GuardDuty.class
+com/adrianosela/pipeliner/ioutil/PrintToSTDOUT$1.class
+com/adrianosela/pipeliner/ioutil/PrintToSTDOUT.class
