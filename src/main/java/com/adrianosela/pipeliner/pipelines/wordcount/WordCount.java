@@ -1,4 +1,4 @@
-package com.adrianosela.pipeliner.entrypoint;
+package com.adrianosela.pipeliner.pipelines.wordcount;
 
 import com.adrianosela.pipeliner.ioutil.PrintToSTDOUT;
 import java.util.Arrays;
@@ -14,7 +14,7 @@ import org.apache.beam.sdk.values.KV;
 import org.apache.beam.sdk.values.PCollection;
 import org.apache.beam.sdk.values.TypeDescriptors;
 
-public class Entrypoint {
+public class WordCount {
 
   public static void main(String[] args) {
     // create options
